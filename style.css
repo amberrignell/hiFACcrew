@@ -168,16 +168,33 @@ h2 {
   padding-top: 100px;
   width: 100%;
   height: 600px;
+  border-style: solid;
+  border-color: black;
 }
 
 .container-2 {
   padding-top: 100px;
   width: 100%;
   height: 600px;
+  border-style: solid;
+  border-color: black;
+}
+
+.container-3 {
+  padding-top: 100px;
+  width: 100%;
+  height: 600px;
+  border-style: solid;
+  border-color: black;
+}
+
+.container-text {
+  margin: 30px 0px;
+  padding: 2px;
 }
 
 /*css for image boxes at the bottom of the page */
-.iconsRow {
+.row {
   display: flex;
 }
 
