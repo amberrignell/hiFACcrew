@@ -99,6 +99,15 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
+.decryptionContainer {
+  display: flex;
+  margin: 0 auto;
+}
+
+.container-1 {
+  display:block;
+}
+
 /*navbar css*/
 ul {
   background-color: #2F6685;
@@ -193,6 +202,7 @@ h2 {
   padding: 2px;
 }
 */
+
 /*css for image boxes at the bottom of the page */
 .row {
   display: flex;
